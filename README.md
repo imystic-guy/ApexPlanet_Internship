@@ -1,4 +1,4 @@
 # ApexPlanet_Internship
-# Summer Internship Project.
+# Summer Internship task.
 <br>
 Author - Shivam Kumar(Mystic_guy)
